@@ -7,4 +7,7 @@ Contamos com o seu apoio para encontrar mulheres desenvolvedoras que amam o univ
 
 Ah! para ficar mais legal, indiquem brasileiras também! Indiquem suas colegas de trabalho, de projeto… tá cheio de gente muito boa aí perto de você. Saiba que isso não é uma competição, queremos conhecer e valorizar também as mulheres que não são tão conhecidas na Comunidade, mas que têm vontade de participar de alguma forma.
 
+Temos 04 issues principais e você pode(deve) contribuir com o que achar mais relevante:
+
+
 Vamos nessa?
