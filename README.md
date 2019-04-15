@@ -15,5 +15,5 @@ Temos 03 issues principais para começar e você pode(deve) contribuir com o que
 Vamos nessa? Agradecemos desde de já!
 
 Andreza Rocha  
-Community Leader  
+Community Manager  
 @braziljs
